@@ -1,0 +1,2 @@
+# trading
+For trading strategy
